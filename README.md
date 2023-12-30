@@ -42,11 +42,9 @@ l=lu_solve((lu,piv),b)
 print(l)
 
 ## Output:
-
-
+(i) To find the L and U matrix
 <img width="389" alt="image" src="https://github.com/EPriyadharshini/LU-Decomposition/assets/144870831/be28ef40-ce63-4063-a70f-3a3d42486dba">
-
-
+(ii) To find the LU Decomposition of a matrix
 <img width="271" alt="image" src="https://github.com/EPriyadharshini/LU-Decomposition/assets/144870831/3bd5a7cf-82fd-4c5e-906b-90168234519c">
 
 
